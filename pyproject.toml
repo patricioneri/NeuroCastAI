@@ -1,0 +1,13 @@
+[project]
+name = "neurocast-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gradio>=6.11.0",
+    "ipykernel>=7.2.0",
+    "openai>=2.30.0",
+    "pypdf>=6.9.2",
+]
